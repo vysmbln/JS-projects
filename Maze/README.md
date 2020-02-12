@@ -16,14 +16,18 @@ MatterJS has the ability to detect collisions between different shapes and repor
 
 
 ### BUILDING THE MAZE: 
-1. create index.html, index.js //Add matter.js cdn and index.js on index.html.
+1. Create index.html, index.js //Add matter.js cdn and index.js on index.html.
 
-2. ON INDEX.JS, ADD: 
+2. On index.js add: 
 
 - [x]  require objects from matter.js library(Engine, Render, Runner, World, Bodies) so we can use them on the file.
 
 - [x] add the canvas
-- [x] add the shape
+- [x] add the walls
 
-3. CREATE A GRID OF 'CELLS'
-4. PICK A RANDOM STARTING CELL
+3. Create a layout for the maze: 
+![layout1](https://user-images.githubusercontent.com/56657351/74276796-650fa500-4ce4-11ea-98da-8ec04f1ad9f9.jpg)
+
+4. Maze generation.
+
+5. Create a function for starting row and column.
