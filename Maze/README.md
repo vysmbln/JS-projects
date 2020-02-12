@@ -20,7 +20,7 @@ MatterJS has the ability to detect collisions between different shapes and repor
 
 2. On index.js add: 
 
-- [x]  require objects from matter.js library(Engine, Render, Runner, World, Bodies) so we can use them on the file.
+- [x]  require objects from matter.js library(Engine, Render, Runner, World, Bodies, Body, Events) so we can use them on the file.
 
 - [x] add the canvas
 - [x] add the walls
@@ -30,4 +30,18 @@ MatterJS has the ability to detect collisions between different shapes and repor
 
 4. Maze generation.
 
-5. Create a function for starting row and column.
+5. Create a variables for starting row and column.
+
+6. Create new variables for grid, verticals and horizontals.
+
+7. Iterate horizontals and verticals.
+
+8. Create variable : unitLength.
+
+9. Create var for goal(end).
+
+10. Create varriable for ball(start).
+
+11. Create var for moving the ball up,down, left,right.
+
+12. Create variable for Game over/Win condition
