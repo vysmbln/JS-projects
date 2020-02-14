@@ -52,6 +52,6 @@ MatterJS has the ability to detect collisions between different shapes and repor
 - [x] add css on index.html
 - [x] edit const height and width 
 - [x] remove cell variable and replace with cellHorizontal/cellVertical
-- [x]edit cons unitLEngth to const unitLengthY and const unitLengthY
+- [x] edit cons unitLength to const unitLengthY and const unitLengthY
 
 15. Add 'You win' on index.html 
