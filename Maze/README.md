@@ -49,9 +49,9 @@ MatterJS has the ability to detect collisions between different shapes and repor
 13. Add forEach array to make the wall collapse
 
 14. Refactor code(Make sure that we will always have identical width and height): 
-- [x] add css on index.html
+- [x] add css on index.html (to change the color)
 - [x] edit const height and width 
 - [x] remove cell variable and replace with cellHorizontal/cellVertical
 - [x] edit cons unitLength to const unitLengthY and const unitLengthY
-
+- [x] update the color of wall, ball, and end
 15. Add 'You win' on index.html 
